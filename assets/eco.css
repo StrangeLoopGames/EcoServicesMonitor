@@ -1,0 +1,30 @@
+:root {
+    --body-background-color: #f0f7f7;
+    --body-text-color: #002626;
+    --card-background-color: #ffffff;
+    --nav-background-color: #ffffff;
+    --nav-border-bottom-color: #d8e8e4;
+    --nav-current-border-bottom-color: #1abc9c;
+    --card-border-color: #d8e8e4;
+    --down-border-left-color: #eb3b5a;
+    --down-background-color: #ffd0d2;
+    --degraded-border-left-color: #f7b731;
+    --up-border-left-color: #20bf6b;
+    --tag-color: #ffffff;
+    --tag-up-background-color: #20bf6b;
+    --tag-down-background-color: #eb3b5a;
+    --tag-degraded-background-color: #f7b731;
+    --change-background-color: #f7b731;
+    --error-button-border-color: #1a46ad;
+    --error-button-background-color: #3867d6;
+    --error-button-color: #ffffff;
+    --submit-button-border-color: #1a46ad;
+    --submit-button-background-color: #3867d6;
+    --submit-button-color: #ffffff;
+    --graph-opacity: 1;
+    --graph-filter: none;
+}
+
+body {
+    background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEMAAABkCAMAAADqvX3PAAAAKlBMVEUAAADX19fX19fBwcHT09PX19fW1tbT09PW1tbV1dXOzs7Ozs7BwcHV1dX5uIg2AAAADnRSTlMAPQAKH0czAAApFAAAAHys1goAAAHwSURBVHja7ZfdcuMwCEb1GUIDcd//dZuk2n5rZzCKOzuzFzo3+XNOBAIHtQosxwi0XUw/jjh2qN1pVzV43FJwJIDLuq5tvaNmzxeEZI5wWP/p9v0gypgGYhGH8fL28yyM7ycOJkFlJW3tZDHhRdBjIO22JR6a1BGMgTAWopvr6BC1jSB1MDWyXYfvkpDlg4iiV83lITiuoXZL+U4/ltcNq2MhogaYBWMYjYU8HHfSRdTrCIOLYImemrfz8dMO6DlVGYyFMWz3tmuGY6GgO1ikXVM51JDXurBO0nyEcyPTnvOXvmyb0hzqfV64jUUYw47Re9CZe6EbeC+M39+TcfK/gTFZuxZgOSag7aMASwGkrQW1Y2lLwXRMx3RMx3T8Pw67FpSOcA5RCccOcTMNL05aRw7Fn2kizA7+1VNH6ENAOBgOxiIK888dHPVqh+Q/yeknzQfHkhx+nqyjT0QFzDUd2Skp53lp7PdFnEkYIhzQv/KRzJUV0QdDSON5+S14CEW0vqSTiAPWWDknCLsY0BZxnNP0L/Z9YQEO8yznXZ2yNwfgTu7rNFgj9aamvS9eZljMTNOeoybSGNwQkvZ+3XrCU07t4HmWSBjDLBzEwdSzhMYcRPRZNYmgdjA1FyahcKQIqpKZs8N0TMd0TMd0/BvHF8n9f8tHo7HcAAAAAElFTkSuQmCC) !important;
+}
