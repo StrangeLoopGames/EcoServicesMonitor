@@ -1,7 +1,7 @@
-url: https://authserver.eco-services.production.strangeloopgames.com/health
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2023-11-13T01:25:40.150Z
+url: https://auth.play.eco/health
+status: up
+code: 200
+responseTime: 292
+lastUpdated: 2023-11-13T01:30:22.003Z
 startTime: 2023-11-13T01:09:08.552Z
 generator: Upptime <https://github.com/upptime/upptime>
