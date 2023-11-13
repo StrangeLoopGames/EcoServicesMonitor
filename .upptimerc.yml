@@ -8,11 +8,11 @@ sites:
   - name: Master Server
     url: http://masterserver.eco.strangeloopgames.com/health
   - name: Auth Server (Release)
-    url: https://authserver.eco-services.production.strangeloopgames.com/health
+    url: https://auth.play.eco/health
   - name: Auth Server (Staging)
     url: http://authserver.eco-services.staging.strangeloopgames.com/health
   - name: Twitch Integration Services (Release)
-    url: https://twitch.eco-services.production.strangeloopgames.com/health
+    url: https://twitch.play.eco/health
   - name: Twitch Integration Services (Staging)
     url: http://twitch.eco-services.staging.strangeloopgames.com/health
 
