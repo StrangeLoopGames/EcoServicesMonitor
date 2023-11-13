@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 657,
-    "timeDay": 677,
-    "timeWeek": 657,
-    "timeMonth": 657,
-    "timeYear": 657,
+    "time": 634,
+    "timeDay": 642,
+    "timeWeek": 634,
+    "timeMonth": 634,
+    "timeYear": 634,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 195,
-    "timeDay": 195,
-    "timeWeek": 195,
-    "timeMonth": 195,
-    "timeYear": 195,
+    "time": 198,
+    "timeDay": 198,
+    "timeWeek": 198,
+    "timeMonth": 198,
+    "timeYear": 198,
     "dailyMinutesDown": {}
   },
   {
@@ -41,18 +41,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/authserver.eco-services.production.strangeloopgames.com.ico",
     "slug": "auth-server-release",
     "status": "down",
-    "uptime": "0.12%",
-    "uptimeDay": "0.12%",
-    "uptimeWeek": "0.12%",
-    "uptimeMonth": "0.12%",
-    "uptimeYear": "0.12%",
+    "uptime": "0.15%",
+    "uptimeDay": "0.15%",
+    "uptimeWeek": "0.15%",
+    "uptimeMonth": "0.15%",
+    "uptimeYear": "0.15%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-11-13": 14
+      "2023-11-13": 17
     }
   },
   {
@@ -66,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 476,
-    "timeDay": 476,
-    "timeWeek": 476,
-    "timeMonth": 476,
-    "timeYear": 476,
+    "time": 485,
+    "timeDay": 485,
+    "timeWeek": 485,
+    "timeMonth": 485,
+    "timeYear": 485,
     "dailyMinutesDown": {}
   },
   {
@@ -79,18 +79,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/twitch.eco-services.production.strangeloopgames.com.ico",
     "slug": "twitch-integration-services-release",
     "status": "down",
-    "uptime": "0.11%",
-    "uptimeDay": "0.11%",
-    "uptimeWeek": "0.11%",
-    "uptimeMonth": "0.11%",
-    "uptimeYear": "0.11%",
+    "uptime": "0.12%",
+    "uptimeDay": "0.12%",
+    "uptimeWeek": "0.12%",
+    "uptimeMonth": "0.12%",
+    "uptimeYear": "0.12%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-11-13": 13
+      "2023-11-13": 17
     }
   },
   {
@@ -104,11 +104,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 479,
-    "timeDay": 479,
-    "timeWeek": 479,
-    "timeMonth": 479,
-    "timeYear": 479,
+    "time": 461,
+    "timeDay": 461,
+    "timeWeek": 461,
+    "timeMonth": 461,
+    "timeYear": 461,
     "dailyMinutesDown": {}
   }
 ]
