@@ -4,9 +4,9 @@
     "url": "https://play.eco",
     "icon": "https://icons.duckduckgo.com/ip3/play.eco.ico",
     "slug": "accounts-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.83%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.96%",
@@ -16,6 +16,7 @@
     "timeMonth": 589,
     "timeYear": 589,
     "dailyMinutesDown": {
+      "2023-12-08": 0,
       "2023-12-05": 17
     }
   },
