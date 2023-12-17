@@ -26,9 +26,9 @@
     "url": "http://masterserver.eco.strangeloopgames.com/health",
     "icon": "https://icons.duckduckgo.com/ip3/masterserver.eco.strangeloopgames.com.ico",
     "slug": "master-server",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -37,7 +37,9 @@
     "timeWeek": 156,
     "timeMonth": 190,
     "timeYear": 193,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-12-17": 0
+    }
   },
   {
     "name": "Auth Server (Release)",
