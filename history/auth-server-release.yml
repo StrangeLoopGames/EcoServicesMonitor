@@ -1,7 +1,7 @@
 url: https://auth.play.eco/health
-status: down
-code: 521
-responseTime: 224
-lastUpdated: 2023-12-19T16:17:45.297Z
+status: up
+code: 200
+responseTime: 16675
+lastUpdated: 2023-12-19T17:23:06.774Z
 startTime: 2023-11-13T01:09:08.552Z
 generator: Upptime <https://github.com/upptime/upptime>
