@@ -29,18 +29,16 @@
     "slug": "master-server",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.83%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 189,
     "timeDay": 146,
     "timeWeek": 176,
     "timeMonth": 184,
     "timeYear": 189,
-    "dailyMinutesDown": {
-      "2023-12-22": 3
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Auth Server (Release)",
@@ -88,7 +86,7 @@
     "slug": "twitch-integration-services-release",
     "status": "up",
     "uptime": "95.25%",
-    "uptimeDay": "13.74%",
+    "uptimeDay": "17.83%",
     "uptimeWeek": "73.38%",
     "uptimeMonth": "93.76%",
     "uptimeYear": "95.25%",
