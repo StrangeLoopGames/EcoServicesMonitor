@@ -27,9 +27,9 @@
     "url": "http://masterserver.eco.strangeloopgames.com/health",
     "icon": "https://icons.duckduckgo.com/ip3/masterserver.eco.strangeloopgames.com.ico",
     "slug": "master-server",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -38,7 +38,9 @@
     "timeWeek": 189,
     "timeMonth": 190,
     "timeYear": 192,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-12-25": 0
+    }
   },
   {
     "name": "Auth Server (Release)",
@@ -85,11 +87,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/twitch.play.eco.ico",
     "slug": "twitch-integration-services-release",
     "status": "up",
-    "uptime": "95.48%",
+    "uptime": "95.49%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "73.53%",
     "uptimeMonth": "93.76%",
-    "uptimeYear": "95.48%",
+    "uptimeYear": "95.49%",
     "time": 429,
     "timeDay": 737,
     "timeWeek": 712,
