@@ -23,17 +23,20 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3
         with:
+          node-version: 20
           ref: ${{ github.head_ref }}
           token: ${{ secrets.GH_PAT || github.token }}
       - name: Generate site
         uses: upptime/uptime-monitor@v1.35.0
         with:
+          node-version: 20
           command: "site"
         env:
           GH_PAT: ${{ secrets.GH_PAT || github.token }}
       - uses: peaceiris/actions-gh-pages@v3.7.3
         name: GitHub Pages Deploy
         with:
+          node-version: 20
           github_token: ${{ secrets.GH_PAT || github.token }}
           publish_dir: "site/status-page/__sapper__/export/"
           force_orphan: "false"
