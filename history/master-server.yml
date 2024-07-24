@@ -1,7 +1,7 @@
 url: http://masterserver.eco.strangeloopgames.com/health
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-07-24T19:51:52.063Z
+status: up
+code: 200
+responseTime: 21653
+lastUpdated: 2024-07-24T20:10:21.113Z
 startTime: 2023-11-13T01:09:07.952Z
 generator: Upptime <https://github.com/upptime/upptime>
