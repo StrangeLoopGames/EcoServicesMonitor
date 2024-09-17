@@ -29,7 +29,7 @@
     "url": "http://masterserver.eco.strangeloopgames.com/health",
     "icon": "https://icons.duckduckgo.com/ip3/masterserver.eco.strangeloopgames.com.ico",
     "slug": "master-server",
-    "status": "up",
+    "status": "down",
     "uptime": "99.70%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -41,6 +41,7 @@
     "timeMonth": 715,
     "timeYear": 548,
     "dailyMinutesDown": {
+      "2024-09-17": 0,
       "2024-09-01": 5,
       "2024-07-24": 70,
       "2023-12-27": 1246
