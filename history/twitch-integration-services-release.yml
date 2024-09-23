@@ -1,7 +1,7 @@
 url: https://twitch.play.eco/health
-status: up
-code: 200
-responseTime: 1735
-lastUpdated: 2024-09-23T08:42:36.873Z
+status: down
+code: 502
+responseTime: 8465
+lastUpdated: 2024-09-23T17:23:25.778Z
 startTime: 2023-11-13T01:09:12.651Z
 generator: Upptime <https://github.com/upptime/upptime>
