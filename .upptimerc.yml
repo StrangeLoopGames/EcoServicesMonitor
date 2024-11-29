@@ -5,6 +5,8 @@ repo: EcoServicesMonitor # The name of this repository
 sites:
   - name: Accounts Website
     url: https://play.eco
+  - name: Strange Cloud
+    url: https://cloud.strangeloopgames.com/health
   - name: Master Server
     url: http://masterserver.eco.strangeloopgames.com/health
   - name: Twitch Integration Services (Release)
