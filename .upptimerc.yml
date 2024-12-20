@@ -7,12 +7,8 @@ sites:
     url: https://play.eco
   - name: Strange Cloud
     url: https://cloud.strangeloopgames.com/health
-  - name: Master Server
-    url: http://masterserver.eco.strangeloopgames.com/health
   - name: Twitch Integration Services (Release)
     url: https://twitch.play.eco/health
-  - name: Twitch Integration Services (Staging)
-    url: http://twitch.eco-services.staging.strangeloopgames.com/health
 
 status-website:
   cname: status.play.eco
