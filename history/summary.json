@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 649,
-    "timeDay": 170,
-    "timeWeek": 231,
-    "timeMonth": 237,
-    "timeYear": 457,
+    "time": 647,
+    "timeDay": 155,
+    "timeWeek": 224,
+    "timeMonth": 236,
+    "timeYear": 455,
     "dailyMinutesDown": {
       "2024-07-16": 5,
       "2023-12-30": 165
@@ -31,11 +31,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.98%",
     "uptimeYear": "99.98%",
-    "time": 234,
-    "timeDay": 292,
-    "timeWeek": 266,
-    "timeMonth": 234,
-    "timeYear": 234,
+    "time": 237,
+    "timeDay": 284,
+    "timeWeek": 265,
+    "timeMonth": 237,
+    "timeYear": 237,
     "dailyMinutesDown": {
       "2024-11-29": 7
     }
@@ -46,18 +46,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/twitch.play.eco.ico",
     "slug": "twitch-integration-services-release",
     "status": "down",
-    "uptime": "87.63%",
+    "uptime": "87.54%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "86.37%",
+    "uptimeYear": "86.26%",
     "time": 4300,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 5228,
+    "timeYear": 5248,
     "dailyMinutesDown": {
-      "2024-12-20": 852,
+      "2024-12-21": 6,
+      "2024-12-20": 1440,
       "2024-12-19": 1440,
       "2024-12-18": 1440,
       "2024-12-17": 1440,
@@ -114,8 +115,7 @@
       "2023-12-31": 77,
       "2023-12-30": 444,
       "2023-12-28": 22,
-      "2023-12-26": 31,
-      "2023-12-22": 1186
+      "2023-12-26": 31
     }
   }
 ]
